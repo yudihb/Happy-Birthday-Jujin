@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "Aku bersyukur banget bisa punya kamu, kamu bukan cuma pacarku, tapi juga orang yang selalu bikin hari-hariku penuh warna. 💖", 
+        text: "Aku bersyukur bisa punya kamu, kamu bukan cuma pacarku, tapi juga orang yang selalu bikin hari-hariku penuh warna. 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
@@ -11,12 +11,12 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Aku berharap semua impian dan keinginan kamu bisa terwujud. kalau boleh, aku ingin terus ada di samping kamu untuk merayakan setiap keberhasilanmu. ✨ ", 
+        text: "Aku berharap semua impian dan keinginan kamu bisa terwujud. kalau boleh, aku ingin terus ada di samping kamu untuk merayakan setiap kesuksesan kamu. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Tetap jadi diri kamu yang selalu aku sayang. Terima kasih sudah hadir dalam hidup aku. Aku sayang kamu, hari ini, besok, dan seterusnya. 🥰", 
+        text: "Tetap jadi diri kamu sendiri. Terima kasih sudah hadir dalam hidup aku. Aku sayang kamu, hari ini, besok, dan seterusnya. uhuy 🥰", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
